@@ -25,7 +25,7 @@ Alert message prompts users to enter a number if the input is empty.
 
 # Live Demo
 
-Check out the live demo [here](https://github.com/AdharshKokkula/Know-Fact-About-the-Number/) to explore the "Know Fact About the Number" web page.
+Check out the live demo [here](https://knowfactofnum.ccbp.tech/) to explore the "Know Fact About the Number" web page.
 
 
 # How to Use
