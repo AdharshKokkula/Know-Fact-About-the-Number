@@ -13,7 +13,13 @@
 }
 
 .user-input {
-    width: 320px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    width: 360px;
+    height: 45px;
+    border-radius: 24px;
+    padding-left: 12px;
 }
 
 .spinner {
